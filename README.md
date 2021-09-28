@@ -7,7 +7,6 @@
 - HTML, Twig, Blade
 - CSS, SCSS, SASS
 - Symfony 4+
-- React
 - JQuery
 - PHPUnit, Cypass
 - Boostrap 4+
@@ -21,3 +20,4 @@
 - Memcached
 - Redis
 - bash
+- React
