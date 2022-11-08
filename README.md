@@ -1,5 +1,5 @@
 ### Hi there 👋 My name is Nikita.
-## I am backend developer since June 2020.
+## I am backend developer
 ## My current stack:
 - Linux
 - PHP 5+
