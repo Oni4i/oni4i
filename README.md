@@ -3,21 +3,18 @@
 ## My current stack:
 - Linux
 - PHP 5+
-- JavaScript
+- JavaScript / JQuery
 - HTML, Twig, Blade
 - CSS, SCSS, SASS
 - Symfony 4+
-- JQuery
 - PHPUnit, Cypass
-- Boostrap 4+
-- MySQL, PostgreSQL
+- MySQL, PostgreSQL, Redis
 - SOLID, MVC, OOP, KISS, DRY
+- Design patterns
 
 ## Also know, but still improving:
 - Laravel
+- Phalcon
 - Docker
-- Sphinx
-- Memcached
-- Redis
 - bash
 - React
