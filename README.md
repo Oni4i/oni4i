@@ -1,20 +1,14 @@
 ### Hi there 👋 My name is Nikita.
 ## I am backend developer
 ## My current stack:
-- Linux
-- PHP 5+
-- JavaScript / JQuery
-- HTML, Twig, Blade
-- CSS, SCSS, SASS
-- Symfony 4+
-- PHPUnit, Cypass
-- MySQL, PostgreSQL, Redis
-- SOLID, MVC, OOP, KISS, DRY
+- PHP
+- Go
+- Symfony, Phalcon
+- JavaScript/JQuery
+- React
+- HTML/TWIG, CSS/SCSS/SASS
+- PHPUnit, Cypress
+- MySQL/Mariadb, PostrgreSQL, Redis
 - Design patterns
-
-## Also know, but still improving:
-- Laravel
-- Phalcon
 - Docker
 - bash
-- React
