@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Nikita.
+# Hi there 👋 My name is Nikita.
 ## I am backend developer
 ## My current stack:
 - PHP
