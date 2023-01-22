@@ -2,7 +2,6 @@
 ## I am backend developer
 ## My current stack:
 - PHP
-- Go
 - Symfony, Phalcon
 - JavaScript/JQuery
 - React
@@ -12,3 +11,6 @@
 - Design patterns
 - Docker
 - bash
+
+### Contacts:
+https://www.linkedin.com/in/nikita-shipilov-a5a956186
